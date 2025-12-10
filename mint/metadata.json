@@ -1,0 +1,9 @@
+{
+	"name": "AYK42nft — NFT",
+	"description": "NFT created for the TokenizeArt project. Includes the number 42.",
+	"image": "ipfs://bafybeidoxps2oynextpeumpbnw7zjtenkfkspevvugd3ytco7acnjqakxq",
+	"artist": "kyaubry",
+	"attributes": [
+	  { "trait_type": "Special Number", "value": "42" }
+	]
+}
