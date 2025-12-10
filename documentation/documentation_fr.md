@@ -22,9 +22,7 @@ gestion des métadonnées sur IPFS.
 
 Le contrat NFT hérite du standard ERC721 d'OpenZeppelin :
 
-``` solidity 
-import "@openzeppelin/contracts/token/ERC721/ERC721.sol"; 
-```
+``` solidity import "@openzeppelin/contracts/token/ERC721/ERC721.sol"; ```
 
 Grâce à cet héritage, le contrat obtient automatiquement :
 
@@ -46,7 +44,7 @@ Ce NFT est un projet pédagogique pour comprendre tout le pipeline ERC721
 ------------------------------------------------------------------------
 
 ### **🔗 Fichiers Pinata**
-
+```
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
   Type                    CID                                                             Lien
   ----------------------- --------------------------------------------------------------- ----------------------------------------------------------------------
@@ -54,7 +52,7 @@ Ce NFT est un projet pédagogique pour comprendre tout le pipeline ERC721
 
   JSON Metadata           `bafkreibxeblf3h7a3ugvjh6eet56m54rbvapydeporvw5uaq5lxsll3poi`   `ipfs://bafkreibxeblf3h7a3ugvjh6eet56m54rbvapydeporvw5uaq5lxsll3poi`
   --------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+```
 ------------------------------------------------------------------------
 
 ### **Exemple de metadata.json**
